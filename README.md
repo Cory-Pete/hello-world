@@ -1,3 +1,2 @@
 # hello-world
-Learning yo
-Ayy
+Learning Git
